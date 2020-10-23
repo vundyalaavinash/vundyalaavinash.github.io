@@ -1,3 +1,5 @@
 title: [vundyalaavinash.io]
 description: [Seeker. Dreamer. Coder.]
 theme: jekyll-theme-hacker
+github:
+  is_project_page: false
